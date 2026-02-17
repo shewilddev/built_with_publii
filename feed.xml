@@ -3,7 +3,7 @@
     <title>SheWildDev</title>
     <link href="https://shewilddev.github.io/built_with_publii/feed.xml" rel="self" />
     <link href="https://shewilddev.github.io/built_with_publii" />
-    <updated>2026-02-16T16:29:57-08:00</updated>
+    <updated>2026-02-16T18:25:42-08:00</updated>
     <author>
         <name>SheWildDev</name>
     </author>
@@ -20,12 +20,14 @@
         <updated>2026-02-16T16:29:57-08:00</updated>
             <summary>
                 <![CDATA[
-                    I have to make at least one post so I can pick a theme.
+                    I have to make at least one post so I can pick a theme. Update: I got the domain shewild.dev to connect to Github Pages to be created on Publii. Next problem to solve solution to come up with: I have to do all of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I have to make at least one post so I can pick a theme.<figure class="post__image"><img loading="lazy"  src="https://shewilddev.github.io/built_with_publii/media/posts/1/SheWild_Logo_02-14-26.png" alt="" width="3000" height="3000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-xs.png 640w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-sm.png 768w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-md.png 1024w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-lg.png 1366w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-xl.png 1600w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-2xl.png 1920w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://shewilddev.github.io/built_with_publii/media/posts/1/SheWild_Logo_02-14-26-2.png" alt="" width="3000" height="3000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-2-xs.png 640w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-2-sm.png 768w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-2-md.png 1024w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-2-lg.png 1366w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-2-xl.png 1600w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-2-2xl.png 1920w"></figure>I have to make at least one post so I can pick a theme.</p>
+<p>Update: I got the domain shewild.dev to connect to Github Pages to be created on Publii.</p>
+<p>Next <span style="text-decoration: line-through;">problem to solve </span> solution to come up with: I have to do all of this for another laptop, possibly. Because Publii is self hosted.<figure class="post__image"><img loading="lazy"  src="https://shewilddev.github.io/built_with_publii/media/posts/1/SheWild_Logo_02-14-26.png" alt="" width="3000" height="3000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-xs.png 640w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-sm.png 768w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-md.png 1024w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-lg.png 1366w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-xl.png 1600w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-2xl.png 1920w"></figure>
             ]]>
         </content>
     </entry>
