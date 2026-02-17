@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>SheWildDev</title>
+    <link href="https://shewilddev.github.io/built_with_publii/feed.xml" rel="self" />
+    <link href="https://shewilddev.github.io/built_with_publii" />
+    <updated>2026-02-16T16:29:57-08:00</updated>
+    <author>
+        <name>SheWildDev</name>
+    </author>
+    <id>https://shewilddev.github.io/built_with_publii</id>
+
+    <entry>
+        <title>SheWildDev page</title>
+        <author>
+            <name>SheWildDev</name>
+        </author>
+        <link href="https://shewilddev.github.io/built_with_publii/shewilddev-page.html"/>
+        <id>https://shewilddev.github.io/built_with_publii/shewilddev-page.html</id>
+
+        <updated>2026-02-16T16:29:57-08:00</updated>
+            <summary>
+                <![CDATA[
+                    I have to make at least one post so I can pick a theme.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I have to make at least one post so I can pick a theme.<figure class="post__image"><img loading="lazy"  src="https://shewilddev.github.io/built_with_publii/media/posts/1/SheWild_Logo_02-14-26.png" alt="" width="3000" height="3000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-xs.png 640w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-sm.png 768w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-md.png 1024w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-lg.png 1366w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-xl.png 1600w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

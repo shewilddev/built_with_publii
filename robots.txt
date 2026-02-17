@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shewilddev.github.io/built_with_publii/sitemap.xml

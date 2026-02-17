@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SheWildDev",
+    "description": "",
+    "home_page_url": "https://shewilddev.github.io/built_with_publii",
+    "feed_url": "https://shewilddev.github.io/built_with_publii/feed.json",
+    "user_comment": "",
+    "icon": "https://shewilddev.github.io/built_with_publii/media/website/SheWild_Logo_02-14-26.png",
+    "author": {
+        "name": "SheWildDev"
+    },
+    "items": [
+        {
+            "id": "https://shewilddev.github.io/built_with_publii/shewilddev-page.html",
+            "url": "https://shewilddev.github.io/built_with_publii/shewilddev-page.html",
+            "title": "SheWildDev page",
+            "summary": "I have to make at least one post so I can pick a theme.",
+            "content_html": "<p>I have to make at least one post so I can pick a theme.<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shewilddev.github.io/built_with_publii/media/posts/1/SheWild_Logo_02-14-26.png\" alt=\"\" width=\"3000\" height=\"3000\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-xs.png 640w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-sm.png 768w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-md.png 1024w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-lg.png 1366w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-xl.png 1600w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-2xl.png 1920w\"></figure>",
+            "author": {
+                "name": "SheWildDev"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-16T16:29:57-08:00",
+            "date_modified": "2026-02-16T16:29:57-08:00"
+        }
+    ]
+}
