@@ -5,11 +5,27 @@
     "home_page_url": "https://shewilddev.github.io/built_with_publii",
     "feed_url": "https://shewilddev.github.io/built_with_publii/feed.json",
     "user_comment": "",
-    "icon": "https://shewilddev.github.io/built_with_publii/media/website/SheWild_Logo_02-14-26.png",
     "author": {
         "name": "SheWildDev"
     },
     "items": [
+        {
+            "id": "https://shewilddev.github.io/built_with_publii/i-really-do-like-publii.html",
+            "url": "https://shewilddev.github.io/built_with_publii/i-really-do-like-publii.html",
+            "title": "I really do like Publii. But...",
+            "summary": "Photo by Zeynep Sümer on Unsplash I wish there was a way I could get it to work with the hosting I already have through Spaceship.com. The learning curve isn't too bad... even if I was in the mood to complain when I first starting&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shewilddev.github.io/built_with_publii/media/posts/3/zeynep-sumer-lk3F07BN8T8-unsplash.jpg\" alt=\"Photo by &lt;a href=&quot;https://unsplash.com/@ispywithmylittleeye?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Zeynep Sümer&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/photos/sunflower-field-during-day-time-lk3F07BN8T8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;       \" width=\"2600\" height=\"3899\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://shewilddev.github.io/built_with_publii/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-xs.jpg 640w ,https://shewilddev.github.io/built_with_publii/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-sm.jpg 768w ,https://shewilddev.github.io/built_with_publii/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-md.jpg 1024w ,https://shewilddev.github.io/built_with_publii/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-lg.jpg 1366w ,https://shewilddev.github.io/built_with_publii/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-xl.jpg 1600w ,https://shewilddev.github.io/built_with_publii/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-2xl.jpg 1920w\"><figcaption>Photo by <a href=\"https://unsplash.com/@ispywithmylittleeye?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Zeynep Sümer</a> on <a href=\"https://unsplash.com/photos/sunflower-field-during-day-time-lk3F07BN8T8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></figcaption></figure>\n<p>I wish there was a way I could get it to work with the hosting I already have through Spaceship.com. The learning curve isn't too bad... even if I was in the mood to complain when I first starting writing this post.</p>\n<p>These first few posts aren't about anything except me learning how to publish/sync and adding different elements to a post.</p>\n<p>I'm a little scared to upgrade the platform to a new version.  But I should probably do that sooner rather than later.</p>",
+            "author": {
+                "name": "SheWildDev"
+            },
+            "tags": [
+                   "testing blog cms",
+                   "publii",
+                   "learning new platform"
+            ],
+            "date_published": "2026-02-17T15:20:07-08:00",
+            "date_modified": "2026-02-17T15:20:07-08:00"
+        },
         {
             "id": "https://shewilddev.github.io/built_with_publii/testing-to-see-if-i-broke-something.html",
             "url": "https://shewilddev.github.io/built_with_publii/testing-to-see-if-i-broke-something.html",
