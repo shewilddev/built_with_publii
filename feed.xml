@@ -3,12 +3,32 @@
     <title>SheWildDev</title>
     <link href="https://shewilddev.github.io/built_with_publii/feed.xml" rel="self" />
     <link href="https://shewilddev.github.io/built_with_publii" />
-    <updated>2026-02-16T18:25:42-08:00</updated>
+    <updated>2026-02-16T18:30:38-08:00</updated>
     <author>
         <name>SheWildDev</name>
     </author>
     <id>https://shewilddev.github.io/built_with_publii</id>
 
+    <entry>
+        <title>Testing to see if I broke something</title>
+        <author>
+            <name>SheWildDev</name>
+        </author>
+        <link href="https://shewilddev.github.io/built_with_publii/testing-to-see-if-i-broke-something.html"/>
+        <id>https://shewilddev.github.io/built_with_publii/testing-to-see-if-i-broke-something.html</id>
+
+        <updated>2026-02-16T18:30:38-08:00</updated>
+            <summary>
+                <![CDATA[
+                    With all of these customizations.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>With all of these customizations.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>SheWildDev page</title>
         <author>
