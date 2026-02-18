@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://shewilddev.github.io/built_with_publii/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.shewild.dev/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://shewilddev.github.io/built_with_publii/</loc>
+<loc>https://www.shewild.dev/</loc>
 </url>
 <url>
-<loc>https://shewilddev.github.io/built_with_publii/i-really-do-like-publii.html</loc>
-<lastmod>2026-02-17T15:20:07-08:00</lastmod>
+<loc>https://www.shewild.dev/i-really-do-like-publii.html</loc>
+<lastmod>2026-02-17T20:58:25-08:00</lastmod>
 <image:image>
-<image:loc>https://shewilddev.github.io/built_with_publii/media/posts/3/zeynep-sumer-lk3F07BN8T8-unsplash.jpg</image:loc>
+<image:loc>https://www.shewild.dev/media/posts/3/zeynep-sumer-lk3F07BN8T8-unsplash.jpg</image:loc>
 <image:title><![CDATA[Photo by &lt;a href=&quot;https://unsplash.com/@ispywithmylittleeye?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Zeynep Sümer&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/photos/sunflower-field-during-day-time-lk3F07BN8T8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;       ]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://shewilddev.github.io/built_with_publii/shewilddev-page.html</loc>
+<loc>https://www.shewild.dev/shewilddev-page.html</loc>
 <lastmod>2026-02-16T18:26:37-08:00</lastmod>
 <image:image>
-<image:loc>https://shewilddev.github.io/built_with_publii/media/posts/1/SheWild_Logo_02-14-26-2.png</image:loc>
+<image:loc>https://www.shewild.dev/media/posts/1/SheWild_Logo_02-14-26-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://shewilddev.github.io/built_with_publii/media/posts/1/SheWild_Logo_02-14-26.png</image:loc>
+<image:loc>https://www.shewild.dev/media/posts/1/SheWild_Logo_02-14-26.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://shewilddev.github.io/built_with_publii/testing-to-see-if-i-broke-something.html</loc>
+<loc>https://www.shewild.dev/testing-to-see-if-i-broke-something.html</loc>
 <lastmod>2026-02-16T18:30:38-08:00</lastmod>
 </url>
 </urlset>

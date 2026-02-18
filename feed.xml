@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>SheWildDev</title>
-    <link href="https://shewilddev.github.io/built_with_publii/feed.xml" rel="self" />
-    <link href="https://shewilddev.github.io/built_with_publii" />
-    <updated>2026-02-17T15:20:07-08:00</updated>
+    <link href="https://www.shewild.dev/feed.xml" rel="self" />
+    <link href="https://www.shewild.dev" />
+    <updated>2026-02-17T20:58:25-08:00</updated>
     <author>
         <name>SheWildDev</name>
     </author>
-    <id>https://shewilddev.github.io/built_with_publii</id>
+    <id>https://www.shewild.dev</id>
 
     <entry>
         <title>I really do like Publii. But...</title>
         <author>
             <name>SheWildDev</name>
         </author>
-        <link href="https://shewilddev.github.io/built_with_publii/i-really-do-like-publii.html"/>
-        <id>https://shewilddev.github.io/built_with_publii/i-really-do-like-publii.html</id>
+        <link href="https://www.shewild.dev/i-really-do-like-publii.html"/>
+        <id>https://www.shewild.dev/i-really-do-like-publii.html</id>
             <category term="testing blog cms"/>
             <category term="publii"/>
             <category term="learning new platform"/>
@@ -28,7 +28,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://shewilddev.github.io/built_with_publii/media/posts/3/zeynep-sumer-lk3F07BN8T8-unsplash.jpg" alt="Photo by &lt;a href=&quot;https://unsplash.com/@ispywithmylittleeye?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Zeynep Sümer&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/photos/sunflower-field-during-day-time-lk3F07BN8T8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;       " width="2600" height="3899" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://shewilddev.github.io/built_with_publii/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-xs.jpg 640w ,https://shewilddev.github.io/built_with_publii/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-sm.jpg 768w ,https://shewilddev.github.io/built_with_publii/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-md.jpg 1024w ,https://shewilddev.github.io/built_with_publii/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-lg.jpg 1366w ,https://shewilddev.github.io/built_with_publii/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-xl.jpg 1600w ,https://shewilddev.github.io/built_with_publii/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-2xl.jpg 1920w"><figcaption>Photo by <a href="https://unsplash.com/@ispywithmylittleeye?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Zeynep Sümer</a> on <a href="https://unsplash.com/photos/sunflower-field-during-day-time-lk3F07BN8T8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://www.shewild.dev/media/posts/3/zeynep-sumer-lk3F07BN8T8-unsplash.jpg" alt="Photo by &lt;a href=&quot;https://unsplash.com/@ispywithmylittleeye?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Zeynep Sümer&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/photos/sunflower-field-during-day-time-lk3F07BN8T8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;       " width="2600" height="3899" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://www.shewild.dev/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-xs.jpg 640w ,https://www.shewild.dev/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-sm.jpg 768w ,https://www.shewild.dev/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-md.jpg 1024w ,https://www.shewild.dev/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-lg.jpg 1366w ,https://www.shewild.dev/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-xl.jpg 1600w ,https://www.shewild.dev/media/posts/3/responsive/zeynep-sumer-lk3F07BN8T8-unsplash-2xl.jpg 1920w"><figcaption>Photo by <a href="https://unsplash.com/@ispywithmylittleeye?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Zeynep Sümer</a> on <a href="https://unsplash.com/photos/sunflower-field-during-day-time-lk3F07BN8T8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption></figure>
 <p>I wish there was a way I could get it to work with the hosting I already have through Spaceship.com. The learning curve isn't too bad... even if I was in the mood to complain when I first starting writing this post.</p>
 <p>These first few posts aren't about anything except me learning how to publish/sync and adding different elements to a post.</p>
 <p>I'm a little scared to upgrade the platform to a new version.  But I should probably do that sooner rather than later.</p>
@@ -40,8 +40,8 @@
         <author>
             <name>SheWildDev</name>
         </author>
-        <link href="https://shewilddev.github.io/built_with_publii/testing-to-see-if-i-broke-something.html"/>
-        <id>https://shewilddev.github.io/built_with_publii/testing-to-see-if-i-broke-something.html</id>
+        <link href="https://www.shewild.dev/testing-to-see-if-i-broke-something.html"/>
+        <id>https://www.shewild.dev/testing-to-see-if-i-broke-something.html</id>
 
         <updated>2026-02-16T18:30:38-08:00</updated>
             <summary>
@@ -60,8 +60,8 @@
         <author>
             <name>SheWildDev</name>
         </author>
-        <link href="https://shewilddev.github.io/built_with_publii/shewilddev-page.html"/>
-        <id>https://shewilddev.github.io/built_with_publii/shewilddev-page.html</id>
+        <link href="https://www.shewild.dev/shewilddev-page.html"/>
+        <id>https://www.shewild.dev/shewilddev-page.html</id>
 
         <updated>2026-02-16T16:29:57-08:00</updated>
             <summary>
@@ -71,9 +71,9 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://shewilddev.github.io/built_with_publii/media/posts/1/SheWild_Logo_02-14-26-2.png" alt="" width="3000" height="3000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-2-xs.png 640w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-2-sm.png 768w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-2-md.png 1024w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-2-lg.png 1366w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-2-xl.png 1600w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-2-2xl.png 1920w"></figure>I have to make at least one post so I can pick a theme.</p>
+                <figure class="post__image"><img loading="lazy"  src="https://www.shewild.dev/media/posts/1/SheWild_Logo_02-14-26-2.png" alt="" width="3000" height="3000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://www.shewild.dev/media/posts/1/responsive/SheWild_Logo_02-14-26-2-xs.png 640w ,https://www.shewild.dev/media/posts/1/responsive/SheWild_Logo_02-14-26-2-sm.png 768w ,https://www.shewild.dev/media/posts/1/responsive/SheWild_Logo_02-14-26-2-md.png 1024w ,https://www.shewild.dev/media/posts/1/responsive/SheWild_Logo_02-14-26-2-lg.png 1366w ,https://www.shewild.dev/media/posts/1/responsive/SheWild_Logo_02-14-26-2-xl.png 1600w ,https://www.shewild.dev/media/posts/1/responsive/SheWild_Logo_02-14-26-2-2xl.png 1920w"></figure>I have to make at least one post so I can pick a theme.</p>
 <p>Update: I got the domain shewild.dev to connect to Github Pages to be created on Publii.</p>
-<p>Next <span style="text-decoration: line-through;">problem to solve </span> solution to come up with: I have to do all of this for another laptop, possibly. Because Publii is self hosted.<figure class="post__image"><img loading="lazy"  src="https://shewilddev.github.io/built_with_publii/media/posts/1/SheWild_Logo_02-14-26.png" alt="" width="3000" height="3000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-xs.png 640w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-sm.png 768w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-md.png 1024w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-lg.png 1366w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-xl.png 1600w ,https://shewilddev.github.io/built_with_publii/media/posts/1/responsive/SheWild_Logo_02-14-26-2xl.png 1920w"></figure>
+<p>Next <span style="text-decoration: line-through;">problem to solve </span> solution to come up with: I have to do all of this for another laptop, possibly. Because Publii is self hosted.<figure class="post__image"><img loading="lazy"  src="https://www.shewild.dev/media/posts/1/SheWild_Logo_02-14-26.png" alt="" width="3000" height="3000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://www.shewild.dev/media/posts/1/responsive/SheWild_Logo_02-14-26-xs.png 640w ,https://www.shewild.dev/media/posts/1/responsive/SheWild_Logo_02-14-26-sm.png 768w ,https://www.shewild.dev/media/posts/1/responsive/SheWild_Logo_02-14-26-md.png 1024w ,https://www.shewild.dev/media/posts/1/responsive/SheWild_Logo_02-14-26-lg.png 1366w ,https://www.shewild.dev/media/posts/1/responsive/SheWild_Logo_02-14-26-xl.png 1600w ,https://www.shewild.dev/media/posts/1/responsive/SheWild_Logo_02-14-26-2xl.png 1920w"></figure>
             ]]>
         </content>
     </entry>
